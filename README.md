@@ -4,7 +4,7 @@ I built a fully responsive movie website using React and the TMDB API. Users can
 # Tech Stack:
 React, React Router, Context API, Tailwind CSS, TMDB API
 
-Live server:https://movix-1-nine.vercel.app/
+Live server:https://movix-app-mu-taupe.vercel.app/
 
 # API Reference:
 Base URL: https://api.themoviedb.org/3
